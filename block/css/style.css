@@ -1,0 +1,24 @@
+/* untuk div */
+div{
+    padding: 30px; /* jarak dari isi elemen ke tepian dalam elemen.*/
+    text-align: center;
+    margin-bottom: 10px; /* memberikan jarak kosong di bagian bawah sebuah elemen*/
+    color: #eeeeee;
+}
+
+.introduction {
+    background-color: #548CA8;
+}
+
+.main-content{
+    background-color: #476072;
+}
+
+.contact-us{
+    background-color: #334257;
+}
+
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+}
